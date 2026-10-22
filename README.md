@@ -5,6 +5,9 @@
 **Draf pengembangan.** Audit substansi matematika menyeluruh belum selesai.
 Penerbit dan ISBN belum tersedia. Lisensi belum ditetapkan.
 
+Revisi 22 Oktober 2026: pengayaan konteks 18 bab, 440 halaman.
+[Eksplorasi interaktif pendamping](https://itera-bermatika.github.io/fondasi-matematika/pengayaan-buku.html).
+
 [Buka / unduh PDF](https://itera-bermatika.github.io/prekalkulus-output/prekalkulus.pdf)
 
 Buku mencakup bahasa matematika, bilangan riil, aljabar, persamaan,
